@@ -1,7 +1,7 @@
 # Real Time Chat
 Implemented using Long Pulling, Event Sourcing and Web Sockets
 
-#To install dependencies
+# To install dependencies
 npm install
 
 # To run Server
