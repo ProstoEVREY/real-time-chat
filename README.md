@@ -5,9 +5,9 @@ Implemented using Long Pulling, Event Sourcing and Web Sockets
 npm install
 
 # To run Server
-npm run startLong
-npm run startWS
-npm run startEvent
+npm run startLong <br/>
+npm run startWS <br/>
+npm run startEvent <br/>
 # To run Client
-npm start
+npm start <br/>
 With one the three options in App.js
